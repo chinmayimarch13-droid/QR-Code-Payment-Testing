@@ -1,0 +1,12 @@
+# Test Cases
+
+This folder contains all manual test cases for the QR Code Payment application.
+
+Modules:
+- QR Code Generation
+- QR Code Scanning
+- Payment Processing
+- Transaction Validation
+- Error Handling
+
+Status: In Progress
